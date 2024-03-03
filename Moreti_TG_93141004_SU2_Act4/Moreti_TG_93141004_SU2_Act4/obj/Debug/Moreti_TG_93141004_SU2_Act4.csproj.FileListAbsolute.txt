@@ -1,0 +1,13 @@
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\bin\Debug\CompaniesDB.mdf
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\bin\Debug\CompaniesDB_log.ldf
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\bin\Debug\Moreti_TG_93141004_SU2_Act4.exe.config
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\bin\Debug\Moreti_TG_93141004_SU2_Act4.exe
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\bin\Debug\Moreti_TG_93141004_SU2_Act4.pdb
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.csproj.AssemblyReference.cache
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.Form1.resources
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.Properties.Resources.resources
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.csproj.GenerateResource.cache
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.csproj.CoreCompileInputs.cache
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.exe
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.pdb
+C:\Users\Givenchie\Desktop\NWU\Semester 1\CMPG212 - APPS & ADVANCED USER INTERFACE\Projects\Moreti_TG_93141004_SU2_Act4\Moreti_TG_93141004_SU2_Act4\obj\Debug\Moreti_TG_93141004_SU2_Act4.frmList.resources
